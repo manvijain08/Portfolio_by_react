@@ -1,0 +1,49 @@
+.footer {
+  padding: 60px;
+}
+
+.get {
+  color: white;
+  text-align: center;
+}
+
+.in {
+  color: white;
+  text-align: center;
+}
+
+.touch {
+  color: rgb(214, 57, 57);
+}
+
+.touch:hover {
+  color: rgb(224, 204, 21);
+}
+
+.mail {
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.dha {
+  text-align: center;
+  font-weight: 300;
+  color: white;
+}
+
+.github {
+  height: 20px;
+}
+
+.linkedin {
+  height: 20px;
+}
+
+.instagram {
+  height: 20px;
+}
+
+.twitter {
+  height: 20px;
+}

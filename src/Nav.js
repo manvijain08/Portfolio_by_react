@@ -1,10 +1,10 @@
 import React from "react";
-import logo from "./logo.svg";
+import logo from "./logo.png";
 import "./Nav.css";
 function Nav() {
   return (
     <div className="nav">
-      <img className="first" src={logo} alt="Logo" />;
+      <img className="first" src={logo} alt="Logo" />
       <div className="navbar">
         <a href="#" class="nav-link">
           Home

@@ -1,0 +1,63 @@
+.skill {
+  background-color: #242423;
+}
+
+.work1javascript {
+  color: white;
+  /* margin-left: 120px; */
+  text-align: center;
+  margin-top: 100px;
+  padding: 30px;
+}
+
+.html {
+  height: 60px;
+  border-radius: 70px;
+}
+
+.css {
+  height: 60px;
+  border-radius: 80px;
+}
+
+.c {
+  height: 60px;
+  border-radius: 50px;
+}
+
+.java {
+  height: 60px;
+  border-radius: 50px;
+}
+
+.javascript {
+  height: 60px;
+  border-radius: 50px;
+}
+
+.ree {
+  height: 60px;
+  border-radius: 50px;
+}
+
+.php {
+  height: 60px;
+  border-radius: 50px;
+}
+
+.cas {
+  height: 60px;
+  border-radius: 50px;
+}
+
+.icon {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 10px;
+}
+
+.icon1 {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 30px;
+}
